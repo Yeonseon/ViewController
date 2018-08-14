@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">color</string>
+    <string name="IPaddress">Please put the IP address of the host</string>
+    <string name="connectbutton">Connect</string>
+</resources>
